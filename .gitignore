@@ -10,6 +10,8 @@
 /bazel-out
 
 # dependencies
+**/gifsApp/node_modules/**
+/gifsApp/node_modules
 /bases/bases01/node_modules
 **/bases/bases01/node_modules/**
 /curso-angular-intro-typescript-ecmascript/ts-intro/node_modules
